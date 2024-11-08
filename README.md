@@ -35,7 +35,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo:
    ```sh
-   git clone git remote add origin https://github.com/shubhamgadhiya/Job-Portal-MERN.git
+   git clone git remote add origin https://github.com/shubhamgadhiya/E-Commarce-MERN-Project.git
    ```
 2. Install NPM packages:
    ```sh
